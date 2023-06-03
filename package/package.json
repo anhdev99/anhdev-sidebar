@@ -1,0 +1,23 @@
+{
+  "name": "anhdev-sidebar",
+  "version": "1.0.0",
+  "description": "Sidebar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhdev99/anhdev-sidebar.git"
+  },
+  "keywords": [
+    "anhdevsidebar",
+    "sidebar"
+  ],
+  "author": "anhdev99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhdev99/anhdev-sidebar/issues"
+  },
+  "homepage": "https://github.com/anhdev99/anhdev-sidebar#readme"
+}
